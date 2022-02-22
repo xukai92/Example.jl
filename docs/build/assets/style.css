@@ -1,0 +1,8 @@
+#site-map {
+    text-align: center;
+    border: white 1px solid;
+}
+
+#site-map a.site-map-entry {
+    display: inline;
+}
