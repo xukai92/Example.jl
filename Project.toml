@@ -1,0 +1,4 @@
+name = "Example"
+uuid = "63f0f9ad-e334-4827-aabb-897c9cfb4b8a"
+authors = ["Kai Xu <contact@xuk.ai>"]
+version = "0.1.0"
